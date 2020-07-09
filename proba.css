@@ -1,0 +1,47 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+h1 {
+    background-color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-weight: 400;
+    margin: 25px;
+/*comment*/
+}
+h2{
+    color: brown;
+    text-align: center;
+}
+table, th, td {
+    text-align: center;
+    border-width: 10px;
+    border: rgb(29, 22, 16);
+    border-style: double;
+    background-color: rgb(218, 170, 136);
+    border-radius: 10px;}
+.header {
+    border-width: inherit;
+}
+.head2 {
+    border-width: inherit;
+
+}
+h3 {
+    margin: 10x;
+    inline-size: 130px;
+    text-align: center;
+    background-color: mediumslateblue;
+    
+}
+li {
+    color: rgb(34, 48, 20);
+    background-color: lightpink;
+    font-style: italic;
+    inline-size: 400px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
